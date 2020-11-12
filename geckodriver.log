@@ -1,0 +1,48 @@
+1603758740454	geckodriver	INFO	Listening on 127.0.0.1:8923
+1603758932132	geckodriver	INFO	Listening on 127.0.0.1:9656
+1603758952321	geckodriver	INFO	Listening on 127.0.0.1:9665
+1603759304061	geckodriver	INFO	Listening on 127.0.0.1:10022
+1603759370580	geckodriver	INFO	Listening on 127.0.0.1:10076
+1603759837045	geckodriver	INFO	Listening on 127.0.0.1:11011
+1603760235887	geckodriver	INFO	Listening on 127.0.0.1:12093
+1603760239018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileMpa42u"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603760248233	Marionette	INFO	Listening on port 12101
+1603760248381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1elinv1dj&promiseSupport=true, line 124: unreachable code after return statement
+JavaScript error: https://www.uol.com.br/camaleao/assets/web/home.js?v=1elinv1dj&promiseSupport=true, line 152: ReferenceError: UOLPlayer is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+1603760272704	Marionette	INFO	Stopped listening on port 12101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603760280046	geckodriver	INFO	Listening on 127.0.0.1:12321
+1603760283117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilesiVFVs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603760291164	Marionette	INFO	Listening on port 12329
+1603760291814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://www.uol.com.br/camaleao/assets/web/home.js?v=1elinv1dj&promiseSupport=true, line 124: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+1603760345641	Marionette	INFO	Stopped listening on port 12329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

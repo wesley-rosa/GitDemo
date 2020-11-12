@@ -1,0 +1,17 @@
+[
+  "test_demo1.py::test_crossBrowser[IE]",
+  "test_demo1.py::test_crossBrowser[chrome]",
+  "test_demo1.py::test_crossBrowser[crossBrowser0]",
+  "test_demo1.py::test_crossBrowser[firefox]",
+  "test_demo1.py::test_firstProgram",
+  "test_demo1.py::test_secondCreditCard",
+  "test_demo2.py::test_firstCreditCard",
+  "test_demo2.py::test_firstProgram_1",
+  "test_fixtureData.py::TestExample2::test_editProfile",
+  "test_fixtureDemo.py::TestExample::test_fixtureDemo",
+  "test_fixtureDemo.py::TestExample::test_fixtureDemo1",
+  "test_fixtureDemo.py::TestExample::test_fixtureDemo2",
+  "test_fixtureDemo.py::TestExample::test_fixtureDemo3",
+  "test_fixtureDemo.py::test_fixtureDemo",
+  "test_logging.py::test_loggingDemo"
+]

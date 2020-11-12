@@ -1,0 +1,10 @@
+2020-10-23 21:50:30,470 :INFO :test_editProfile :Wesley
+2020-10-23 21:50:30,470 :CRITICAL :test_editProfile :Rosa
+2020-10-23 21:53:22,538 :INFO :test_editProfile :Wesley
+2020-10-23 21:53:22,538 :CRITICAL :test_editProfile :Rosa
+2020-10-23 21:53:22,585 :ERROR :pytestDemo.test_logging :A major error happened
+2020-10-23 21:53:22,585 :CRITICAL :pytestDemo.test_logging :Critical issue
+2020-10-23 21:53:36,752 :INFO :test_editProfile :Wesley
+2020-10-23 21:53:36,752 :CRITICAL :test_editProfile :Rosa
+2020-10-23 21:53:36,783 :ERROR :pytestDemo.test_logging :A major error happened
+2020-10-23 21:53:36,783 :CRITICAL :pytestDemo.test_logging :Critical issue
